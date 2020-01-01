@@ -66,7 +66,7 @@ header nav ul #Connexion a {
   padding-top: 100px;
   display: inline-table;
   position: relative;
-  left: 10%;
+  left: 19%;
 }
 
 .boxe-main-full h5 {
@@ -103,6 +103,8 @@ header nav ul #Connexion a {
   width: 50%;
   height: 50%;
   display: table-cell;
+  position: relative;
+  left: 19%;
 }
 
 .boxe-main-gauche p {
@@ -159,6 +161,8 @@ header nav ul #Connexion a {
   width: 50%;
   height: 50%;
   font-family: Palanquin;
+  position: relative;
+  left: 19%;
 }
 
 .boxe-main-droite h5 {

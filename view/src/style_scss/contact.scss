@@ -3,6 +3,7 @@
 
 * {
   box-sizing: border-box;
+
 }
 
 .boxe-main-full {
@@ -13,7 +14,7 @@
   padding-top: 100px;
   display: inline-table;
   position: relative;
-  left: 10%;
+  left: 19%;
 
   h5 {
     margin: 0 0 0.55em;
@@ -50,6 +51,8 @@
   width: 50%;
   height: 50%;
   display: table-cell;
+  position: relative;
+  left: 19%;
 
   p {
     text-align: center;
@@ -107,6 +110,8 @@
   width: 50%;
   height: 50%;
   font-family: $fontLow;
+  position: relative;
+  left: 19%;
 
   h5 {
     color: $red;
